@@ -255,7 +255,7 @@ Partial Class Form5
         Me.Button6.Name = "Button6"
         Me.Button6.Size = New System.Drawing.Size(142, 40)
         Me.Button6.TabIndex = 44
-        Me.Button6.Text = "Refersh"
+        Me.Button6.Text = "Refresh"
         Me.Button6.UseVisualStyleBackColor = True
         '
         'Form5

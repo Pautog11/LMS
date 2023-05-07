@@ -104,11 +104,11 @@ Partial Class Form7
         'Button2
         '
         Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(469, 382)
+        Me.Button2.Location = New System.Drawing.Point(569, 382)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(274, 41)
+        Me.Button2.Size = New System.Drawing.Size(134, 41)
         Me.Button2.TabIndex = 23
-        Me.Button2.Text = "Refresh Data"
+        Me.Button2.Text = "Refresh"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Label11

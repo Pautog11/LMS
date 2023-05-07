@@ -18,7 +18,7 @@ Public Class Form5
         disp_data()
         MessageBox.Show("Recorded Successfully!")
         a.Close()
-        'TextBox1.Text = ""
+        TextBox1.Text = ""
         TextBox2.Text = ""
         TextBox3.Text = ""
     End Sub
